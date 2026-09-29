@@ -14,7 +14,21 @@ Toma noticias financieras y datos de precios de acciones, y predice si una notic
 
 ## Estructura del proyecto 
 
-
+Financial-Forecast-ML/
+├── notebooks/
+│   ├── 01_EDA_y_Limpieza.ipynb
+│   ├── 02_Modelos_Machine_Learning.ipynb
+│   └── 03_LSTM_TensorFlow.ipynb
+├── src/
+│   ├── preprocesamiento.py
+│   ├── modelos.py
+│   └── utils.py
+├── data/
+│   └── dataset_final_para_modelos.csv
+├── outputs/
+│   └── graficos/
+├── README.md
+└── requirements.txt
 
 ## Tecnologías usadas
 
