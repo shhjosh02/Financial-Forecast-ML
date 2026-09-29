@@ -17,6 +17,7 @@ Permite anticiparse al mercado emitiendo alertas tempranas antes de que el merca
 3. **Fase 3 (Notebook 03):** Entrena una red LSTM híbrida (texto + números) en TensorFlow/Keras.
 
 ## Estructura del proyecto
+A continuación se muestra la organización de carpetas y archivos del proyecto:
 <img width="1672" height="941" alt="Estructura del financial forecast" src="https://github.com/user-attachments/assets/6d795969-aa53-4836-8131-325ef2642176" />
 
 ## Tecnologías usadas
@@ -40,8 +41,9 @@ Permite anticiparse al mercado emitiendo alertas tempranas antes de que el merca
 
 ### Fase 2: Modelos ML
 
+
 <img width="2236" height="1242" alt="ml_feature_importance" src="https://github.com/user-attachments/assets/bc56ec65-3b6f-428f-a03a-18af69fe8578" />
-<img width="2442" height="1243" alt="lstm_comparativa_final" src="https://github.com/user-attachments/assets/1be3eb2a-072d-4db2-9769-2d11dc9e419f" />
+<img width="2442" height="1243" alt="ml_comparativa_modelos" src="https://github.com/user-attachments/assets/1be3eb2a-072d-4db2-9769-2d11dc9e419f" />
 
 
 ### Fase 3: LSTM
